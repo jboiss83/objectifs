@@ -1,4 +1,4 @@
-# Objectifs
+# Simulateur Chiffre d'Affaires Auto Entrepeneur / EI
 
 Calculateur d’objectifs financiers pour développeurs, réalisé avec Next.js, TypeScript, Tailwind CSS et ESLint.
 
